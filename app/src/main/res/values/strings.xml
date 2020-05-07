@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlacesSDK</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_permission_denied">Permission was denied</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f \n Timestamp: %3$tr"</string>
+<!--    <string name="address_text">"Name: %1$s \n Address: %2$s \n Timestamp: %3$tr"</string>-->
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid coordinates used</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
+</resources>
